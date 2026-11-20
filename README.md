@@ -18,7 +18,8 @@ Fork our official [APILayer Postman Collection](https://www.postman.com/apilayer
 - [Mailboxlayer](https://apilayer.com/products/mailboxlayer?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
 - [Countrylayer](https://apilayer.com/products/countrylayer?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
 - [Serpstack](https://apilayer.com/products/serpstack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
-- [Scrapestack](https://apilayer.com/products/scrapestack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
+- [Scrapestack](https://apilayer.com/products/scrapestack?utm_source=Github&utm_medium=Referral&utm_97
+- campaign=Public-apis-repo)
 
 # Try Public APIs for free
 The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
@@ -96,6 +97,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [LucyESL](https://lucyesl.com/developers) | English-teaching jobs in South Korea with pay, hours and housing as facts, plus salary statistics | No | `HTTP` | [Anthropic](https://claude.ai/directory/lucyesl) · [Glama](https://glama.ai/mcp/connectors/com.lucyesl/jobs) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.lucyesl/jobs) |
 | [Master Setter](https://api.master-setter.com) | Pokémon TCG cards, sets and printings in 14 languages, searchable by name in any language | `apiKey` | `HTTP` | [Glama](https://glama.ai/mcp/connectors/com.master-setter/pokemon-tcg) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.master-setter) |
 | [Monocrawl](https://github.com/monocrawl/monocrawl-mcp) | Public posts, profiles, comments and products from 70+ social, shopping and search platforms | `apiKey` | `stdio`, `HTTP` | [Glama](https://glama.ai/mcp/connectors/com.monocrawl/mcp) |
+| [NodeRings](https://docs.noderings.com/docs/client-guides/mcp) | Connects independent hosting providers and customers to discover, deploy, and manage compute | `OAuth` | `HTTP` | [Postman](https://www.postman.com/noderings-132525/noderings-api) |
 | [Octocrawl](https://octocrawl.dev/docs/connect-mcp/) | Web pages as Markdown or JSON with an Evidence Record; a blocked or empty page returns a reason | No | `stdio`, `HTTP` | [Glama](https://glama.ai/mcp/servers/77777R7/Octocrawl) · [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.77777R7/octocrawl) |
 | [OpenApps](https://theopenapps.com/docs/mcp) | Rankings, launches and featuring across the ChatGPT, Claude, Cursor and Grok Bot app stores | No | `HTTP` | – |
 | [Openpath](https://openpath.sh/docs/connect) | US job listings and local businesses for agents, with apply links and owner inboxes | No | `HTTP` | [Anthropic](https://claude.ai/directory/openpath) · [Glama](https://glama.ai/mcp/connectors/sh.openpath/openpath) · [Smithery](https://smithery.ai/servers/openpath/openpath) |
